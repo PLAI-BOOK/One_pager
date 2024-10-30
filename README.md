@@ -12,3 +12,7 @@ framer motions:
 https://www.framer.com/motion/
 https://framermotionexamples.com/examples?s=free&page=2
 
+to save the dependencies:
+pip freeze > requirements.txt
+to download the dependencies:
+pip install -r requirements.txt
