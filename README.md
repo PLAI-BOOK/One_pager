@@ -16,3 +16,16 @@ to save the dependencies:
 pip freeze > requirements.txt
 to download the dependencies:
 pip install -r requirements.txt
+
+
+what components we need:
+1. Header\navbar\something like that somewhere
+2. the team
+3. about us (company)
+4. market and competitors
+5. buisnes model
+6. video
+7. contact us
+
+look at different one pagers for inspiration
+https://www.storydoc.com/one-pager-templates/startup
